@@ -45,14 +45,4 @@ while game_is_on:
             snake.reset()
 
 
-    # if head collides with any segment of the tail:
-    #trigger game over
-
-
-
-
-
-
-
-
 screen.exitonclick()
